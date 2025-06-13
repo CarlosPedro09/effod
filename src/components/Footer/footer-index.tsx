@@ -34,8 +34,8 @@ const Footer = () => (
         <Copyright>
           A efood é uma plataforma para divulgação de estabelecimentos, a
           responsabilidade pela entrega, qualidade dos produtos é toda do
-          estabelecimento contratado. {currentYear} - &copy; efood Todos os direitos
-          reservados, página criada para fins de estudo. Criado por{' '}
+          estabelecimento contratado. {currentYear} - &copy; efood Todos os
+          direitos reservados, página criada para fins de estudo. Criado por{' '}
           <a href="https://www.linkedin.com/in/carlos-pedro-gomes/">
             Carlos Pedro
           </a>
